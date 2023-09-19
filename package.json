@@ -1,0 +1,25 @@
+{
+  "name": "nodejsexamples",
+  "version": "0.0.1",
+  "description": "NodeJSExamples for IT Management and Dev Ops",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "hello":"node helloworld.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaMarti/NodeJSExamples.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "examples"
+  ],
+  "author": "Joshua Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaMarti/NodeJSExamples/issues"
+  },
+  "homepage": "https://github.com/JoshuaMarti/NodeJSExamples#readme"
+}
